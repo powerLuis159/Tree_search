@@ -8,6 +8,7 @@ private:
 	char* nombre;
 public:
 	int id;
+	Ciudad();
 	Ciudad(int);
 	Ciudad(char*, int);
 	void asignardistancia(int dist, int ciudad);
