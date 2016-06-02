@@ -3,6 +3,16 @@
 
 
 
+Ciudad::Ciudad()
+{
+	id = 0;
+	nombre = "default";
+	for each (int distancia_a in distancia)
+	{
+		distancia_a = -1;
+	}
+}
+
 Ciudad::Ciudad(int identificador)
 {
 	id = identificador;
