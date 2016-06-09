@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+debug con MPI|Win32|C:\Users\lrona_000\Source\Repos\Tree_search\MPI pruebas\|
